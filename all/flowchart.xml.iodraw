@@ -90,8 +90,8 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-58" value="显示分组列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="45" y="654" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-59" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="24" y="739" width="162" height="66" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-59" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="59" y="739" width="125" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
