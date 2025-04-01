@@ -428,7 +428,10 @@
           <mxGeometry x="-145" y="1865" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-196" value="渲染进程通知主进程绑定快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190.5" y="1914" width="120" height="30" as="geometry" />
+          <mxGeometry x="-190.5" y="1903" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-198" value="渲染进程通知主进程绑定快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180.5" y="1913" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
