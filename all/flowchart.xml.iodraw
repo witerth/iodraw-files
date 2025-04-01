@@ -217,6 +217,9 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-108" value="点击分组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="716" width="236" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-119" target="QgJMiynAzXdpA1_uVpBO-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-119" value="显示片段详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="854" y="875" width="120" height="30" as="geometry" />
         </mxCell>
@@ -232,7 +235,7 @@
           <mxGeometry x="475" y="881" width="221" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-127" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="868.5" y="952" width="91" height="66" as="geometry" />
+          <mxGeometry x="868.5" y="927" width="91" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
