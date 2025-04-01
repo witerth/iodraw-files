@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-55" value="隐藏窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1150" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="1055" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-58" target="QgJMiynAzXdpA1_uVpBO-59">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +180,9 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-94" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="583.5" y="799" width="91" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-96" target="QgJMiynAzXdpA1_uVpBO-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-96" value="点击删除按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="945" width="120" height="30" as="geometry" />
         </mxCell>
@@ -211,12 +214,6 @@
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-108" value="点击分组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="716" width="236" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-66" y="899" as="sourcePoint" />
-            <mxPoint x="55" y="1016" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
