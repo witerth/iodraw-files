@@ -162,19 +162,19 @@
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="628.5" y="866" as="sourcePoint" />
+            <mxPoint x="629.5" y="865" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="448" y="946" as="targetPoint" />
-            <mxPoint x="583" y="833" as="sourcePoint" />
+            <mxPoint x="449" y="945" as="targetPoint" />
+            <mxPoint x="584" y="832" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="946" as="targetPoint" />
-            <mxPoint x="674" y="833" as="sourcePoint" />
+            <mxPoint x="811" y="945" as="targetPoint" />
+            <mxPoint x="675" y="832" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-94" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -184,12 +184,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-96" value="进入编辑模式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="569" y="946" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="945" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="1059" as="targetPoint" />
-            <mxPoint x="448" y="976" as="sourcePoint" />
+            <mxPoint x="454" y="1058" as="targetPoint" />
+            <mxPoint x="449" y="975" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-98" value="创建新分组" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -197,15 +197,15 @@
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="1041" as="targetPoint" />
-            <mxPoint x="810" y="976" as="sourcePoint" />
+            <mxPoint x="826" y="1040" as="targetPoint" />
+            <mxPoint x="811" y="975" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-100" value="点击删除按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="753" y="945" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-101" value="双击分组名称修改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="569" y="886" width="221" height="30" as="geometry" />
+          <mxGeometry x="570" y="885" width="221" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-102" value="点击新建图标新建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="882" width="236" height="30" as="geometry" />
@@ -214,10 +214,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-104" value="修改分组名称" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="569" y="1014" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="1013" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-105" value="提交数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="568.5" y="1078" width="120" height="30" as="geometry" />
+          <mxGeometry x="569.5" y="1077" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-106" target="QgJMiynAzXdpA1_uVpBO-94">
           <mxGeometry relative="1" as="geometry" />
