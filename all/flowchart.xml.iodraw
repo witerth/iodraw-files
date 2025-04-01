@@ -237,11 +237,14 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-127" target="QgJMiynAzXdpA1_uVpBO-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-127" target="QgJMiynAzXdpA1_uVpBO-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-127" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="868.5" y="927" width="91" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-129" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="765" y="1036" width="120" height="32" as="geometry" />
+          <mxGeometry x="780" y="1035" width="120" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
