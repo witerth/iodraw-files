@@ -115,11 +115,8 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-67" value="右键删除分组" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216" y="862" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-70" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;双击分组名称修改&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="59" y="829" width="114" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-74" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="486" y="793" width="221" height="30" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-74" value="双击分组名称修改" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="48" y="815" width="221" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
