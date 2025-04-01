@@ -103,7 +103,10 @@
           <mxGeometry x="44.5" y="862" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-64" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-143" y="858" width="120" height="60" as="geometry" />
+          <mxGeometry x="-143" y="862" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-66" value="双击分组名称修改" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="54.5" y="872" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
