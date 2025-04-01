@@ -341,7 +341,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-169" value="刷新页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="858" y="1182" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-172" value="监听用户键盘输入&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-172" value="提交数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-307" y="1796" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
