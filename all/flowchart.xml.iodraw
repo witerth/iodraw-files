@@ -309,7 +309,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-148" value="修改搜索窗口快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-307" y="1649" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-149" target="QgJMiynAzXdpA1_uVpBO-148">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-149" target="QgJMiynAzXdpA1_uVpBO-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-149" value="修改配置窗口快捷键" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -323,11 +323,11 @@
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-160" target="QgJMiynAzXdpA1_uVpBO-191">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-247" y="1796" as="targetPoint" />
+            <mxPoint x="-130.5" y="1809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-160" value="监听用户键盘输入&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-307" y="1726" width="120" height="30" as="geometry" />
+          <mxGeometry x="-190.5" y="1739" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-164" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="489" y="1210" width="120" height="30" as="geometry" />
@@ -407,7 +407,7 @@
           <mxGeometry x="907" y="1171" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-191" value="提交数据库" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-292.5" y="1799" width="91" height="66" as="geometry" />
+          <mxGeometry x="-176" y="1812" width="91" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
