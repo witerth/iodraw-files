@@ -84,8 +84,14 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-55" value="隐藏窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="45" y="1006" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-58" target="QgJMiynAzXdpA1_uVpBO-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-58" value="显示分组列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="45" y="691" width="120" height="30" as="geometry" />
+          <mxGeometry x="45" y="654" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-59" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="739" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
