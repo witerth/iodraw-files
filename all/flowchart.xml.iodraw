@@ -35,11 +35,6 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-3" value="展示结果列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="400" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-5" value="用户选择片段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="500" width="120" height="30" as="geometry" />
         </mxCell>
@@ -54,8 +49,8 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-11" value="查询数据库是否有数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="200" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="168" width="50" height="30" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-15" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="168" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
