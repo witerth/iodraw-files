@@ -465,9 +465,9 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-208" value="选择备份文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="383.5" y="1725" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-211">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-211" target="QgJMiynAzXdpA1_uVpBO-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.521739130435" y="1936" as="targetPoint" />
+            <mxPoint x="443" y="1936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-211" value="文件格式和内容是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -489,7 +489,7 @@
           <mxGeometry x="437" y="1895" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-218" value="提交数据库" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="398.5" y="1950" width="91" height="62" as="geometry" />
+          <mxGeometry x="397.5" y="1934" width="91" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
