@@ -314,6 +314,9 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-156" value="点击数据恢复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="383.5" y="1649" width="120" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-160" value="修改搜索窗口快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="1658" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
