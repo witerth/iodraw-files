@@ -436,6 +436,9 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-198" value="渲染进程通知主进程绑定快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-190.5" y="1975" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-40" target="QgJMiynAzXdpA1_uVpBO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
