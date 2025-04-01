@@ -311,7 +311,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-152" value="点击数据备份" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95.5" y="1650" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-156" value="点击数据备份" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-156" value="点击数据恢复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1561.5" width="120" height="29" as="geometry" />
         </mxCell>
       </root>
