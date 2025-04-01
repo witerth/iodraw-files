@@ -447,7 +447,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-202" value="选择下载目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1725" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-204" value="下载json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-204" value="下载json格式备份文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1811" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
