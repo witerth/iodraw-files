@@ -343,8 +343,10 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-172" value="提交数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-307" y="1796" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-177" target="QgJMiynAzXdpA1_uVpBO-179">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-228" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-177" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="59.5" y="993" width="91" height="66" as="geometry" />
@@ -353,7 +355,7 @@
           <mxGeometry x="95" y="1067" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-179" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-473" y="991" width="120" height="60" as="geometry" />
+          <mxGeometry x="-487" y="998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
