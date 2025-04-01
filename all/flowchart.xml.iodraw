@@ -468,12 +468,12 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-211" value="文件格式和内容是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="382.5" y="1786" width="121" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-213" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-213" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-166" y="1840" as="sourcePoint" />
-            <mxPoint x="108" y="1539" as="targetPoint" />
+            <mxPoint x="722" y="1841" as="sourcePoint" />
+            <mxPoint x="996" y="1540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-311" y="1704" />
+              <mxPoint x="577" y="1705" />
             </Array>
           </mxGeometry>
         </mxCell>
