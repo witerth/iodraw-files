@@ -21,7 +21,10 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-1" value="显示搜索窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-2" value="显示搜索窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-2" target="QgJMiynAzXdpA1_uVpBO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-2" value="用户输入搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-3" value="显示搜索窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
