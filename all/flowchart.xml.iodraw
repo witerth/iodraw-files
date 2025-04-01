@@ -306,13 +306,13 @@
           <mxGeometry x="-223" y="1648" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-149" value="修改配置窗口快捷键" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-68" y="1650" width="120" height="29" as="geometry" />
+          <mxGeometry x="-50" y="1650" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-152" value="点击数据备份" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="134" y="1650" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-156" value="点击数据恢复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="316" y="1653" width="120" height="29" as="geometry" />
+          <mxGeometry x="386" y="1652" width="120" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
