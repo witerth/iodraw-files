@@ -427,17 +427,16 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-195" value="成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-145" y="1865" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-196" target="QgJMiynAzXdpA1_uVpBO-198">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130.5" y="1975" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-196" value="渲染进程通知主进程绑定快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-190.5" y="1903" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-198" value="渲染进程通知主进程绑定快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190.5" y="1975" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-40" target="QgJMiynAzXdpA1_uVpBO-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-201" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-49" y="1975" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
