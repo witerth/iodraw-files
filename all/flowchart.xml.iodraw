@@ -466,7 +466,7 @@
           <mxGeometry x="383.5" y="1725" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-211" value="文件格式和内容是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="1794" width="146" height="62" as="geometry" />
+          <mxGeometry x="343" y="1794" width="121" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
