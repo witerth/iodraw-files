@@ -407,7 +407,7 @@
           <mxGeometry x="907" y="1171" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-191" value="提交数据库" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-176" y="1812" width="91" height="66" as="geometry" />
+          <mxGeometry x="-176" y="1812" width="91" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
