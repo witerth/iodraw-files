@@ -502,6 +502,15 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-222" value="成功" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="426" y="2001" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-223" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-218">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="1849" as="sourcePoint" />
+            <mxPoint x="109" y="1538" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="587" y="1715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
