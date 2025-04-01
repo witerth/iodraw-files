@@ -190,7 +190,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-98" value="创建新片段" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="945" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-100" target="QgJMiynAzXdpA1_uVpBO-119">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1168" y="846" as="sourcePoint" />
             <mxPoint x="1168" y="932.0000000000002" as="targetPoint" />
@@ -218,7 +218,7 @@
           <mxGeometry x="270" y="716" width="236" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-119" value="显示片段详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1141" y="933" width="120" height="30" as="geometry" />
+          <mxGeometry x="1108" y="957" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-122" target="QgJMiynAzXdpA1_uVpBO-105">
           <mxGeometry relative="1" as="geometry">
