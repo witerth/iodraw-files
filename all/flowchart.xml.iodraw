@@ -344,8 +344,8 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-172" value="提交数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-307" y="1796" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-176" value="提交数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-297" y="1806" width="120" height="30" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-177" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="69" y="723" width="91" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
