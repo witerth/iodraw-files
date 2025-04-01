@@ -98,8 +98,10 @@
             <mxPoint x="-83" y="862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-59" target="QgJMiynAzXdpA1_uVpBO-68">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-59" target="QgJMiynAzXdpA1_uVpBO-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215.5" y="746" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-59" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="59" y="713" width="91" height="66" as="geometry" />
@@ -112,9 +114,6 @@
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-67" value="双击分组名称修改" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217" y="862" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-68" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215.5" y="716" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
