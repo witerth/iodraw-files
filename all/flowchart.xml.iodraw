@@ -290,11 +290,17 @@
             <mxPoint x="95" y="1692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-144" target="QgJMiynAzXdpA1_uVpBO-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-144" value="用户操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49.5" y="1543" width="91" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-148" value="修改搜索窗口快捷键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="1717" width="120" height="30" as="geometry" />
+          <mxGeometry x="-223" y="1648" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-149" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="1692" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
