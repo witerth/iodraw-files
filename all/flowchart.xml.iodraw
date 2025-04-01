@@ -21,8 +21,10 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-1" value="显示搜索窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-2" target="QgJMiynAzXdpA1_uVpBO-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-2" value="用户输入搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="140" width="120" height="30" as="geometry" />
@@ -33,14 +35,16 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-3" value="展示结果列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-4" target="QgJMiynAzXdpA1_uVpBO-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-4" value="查询数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-5" value="用户选择片段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
