@@ -152,7 +152,7 @@
         <mxCell id="QgJMiynAzXdpA1_uVpBO-81" value="提交数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44.5" y="991" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QgJMiynAzXdpA1_uVpBO-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QgJMiynAzXdpA1_uVpBO-96">
+        <mxCell id="QgJMiynAzXdpA1_uVpBO-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QgJMiynAzXdpA1_uVpBO-94" target="QgJMiynAzXdpA1_uVpBO-96">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596.5" y="864" as="sourcePoint" />
           </mxGeometry>
@@ -200,7 +200,7 @@
           <mxGeometry x="1141" y="817" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-101" value="右键显示菜单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="736" y="881" width="221" height="30" as="geometry" />
+          <mxGeometry x="653" y="882" width="221" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-102" value="点击新建图标新建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="881" width="236" height="30" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="1141" y="933" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-122" value="点击删除按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="736" y="944" width="120" height="30" as="geometry" />
+          <mxGeometry x="653" y="945" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QgJMiynAzXdpA1_uVpBO-123" value="拖拽片段至其他分组" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="496" y="882" width="221" height="30" as="geometry" />
